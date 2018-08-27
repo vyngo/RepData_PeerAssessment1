@@ -189,7 +189,8 @@ median(steps.per.day.new$total.steps)
 ```
 ## [1] 10766.19
 ```
-    We can see that the mean and median for the new dataset with the filled-in missing values are the same
+    
+We can see that the mean and median for the new dataset with the filled-in missing values are the same
     
 ## Differences in activity patterns between weekdays and weekends
 
